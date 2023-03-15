@@ -124,3 +124,10 @@ ul {
   font-size: 0.8rem;
   opacity: 0.8;
 }
+
+@media (max-width: 656px) {
+  #bottom-left-section, #bottom-right-section, #card {
+    width: 200px;
+    height: auto;
+    }
+}
